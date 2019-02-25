@@ -9,3 +9,4 @@ Daftar materi:
 1. [Hello World](/paths/part1.md)
 2. [Tipe Data](/paths/part2.md)
 3. [Pengenalan Class dan Object](/paths/objects.md)
+4. [Grafis](/paths/grafis.md)
