@@ -1,7 +1,3 @@
-Java adalah bahasa pemrograman yang dirancang untuk membangun aplikasi yang mampu berjalan di berbagai sistem operasi, termasuk Linux, Mac OS X, dan Windows. 
-
-Kita akan mulai dengan dasar-dasar pemrograman Java: tipe data, aritmatika, dan operator. Kita juga akan mempelajari beberapa konsep yang bisa diterapkan pada program yang akan dibuat. 
-
 Belajar bahasa pemrograman apapun, rasanya tidak afdhol jika tidak dimulai dengan menampilkan kata Hello World. Nah, pada bagian ini, kita akan menampilkan kata tersebut pada tampilan console atau terminal.
 
 Contoh kode memunculkan Hello World di console:

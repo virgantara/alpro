@@ -1,1 +1,4 @@
 *.class
+/Projects/Animasi/nbproject/private/
+/Projects/Objek/nbproject/private/
+/Projects/Objek/build/
