@@ -13,8 +13,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *
@@ -49,7 +47,7 @@ public class MyThread implements Runnable {
                 }
                 Thread.sleep(500);
             } catch (InterruptedException ex) {
-                Logger.getLogger(MyThread.class.getName()).log(Level.SEVERE, null, ex);
+                System.out.println(ex.getMessage());
             }
         }
     }
